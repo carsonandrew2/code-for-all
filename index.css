@@ -1,10 +1,11 @@
+#bar {
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-}
+
 
 li {
     float: left;
@@ -38,6 +39,7 @@ ul {
     width: 100%;
     left: 0;
 }
+}
  h1 {
     font-size: 500%;
     font-family: sans-serif;
@@ -50,7 +52,22 @@ ul {
 p {
 font-family: sans-serif;
 }
+#social {
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: red;
+}
 
+li a {
+    display: block;
+    color: white;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+}
 
 
 
