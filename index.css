@@ -16,8 +16,8 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family:monospace;
-    font-size: 100%;
+    font-family: monospace;
+    font-size: 200%;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -26,7 +26,9 @@ li a:hover {
 }
 #videos {
 	background-color: #0a00c9;
-}ul {
+	float: right;
+}
+ul {
     position: fixed;
     top: 0;
     width: 100%;
@@ -45,6 +47,7 @@ li a:hover {
 p {
     font-family: sans-serif;
     text-align:center;
+    margin-top:0.5%;
 }
 
 
