@@ -50,18 +50,19 @@ p {
    font-size: 150%;
    text-align: center;
 }
-.button{
+button{
 	background-color: #0E174C;
 	font-family: monospace;
-	font-size: 50px
+	font-size: 100px
 	border: none;
 	border-radius: 12px;
 	color:white;
+	transition-duration:1s;
 }
-.button :hover {
+button :hover {
 	background-color: white
 	color:#0E174C;;
-	transition-duration:1s;
+	
 }
 	
 	
