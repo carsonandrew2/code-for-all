@@ -63,6 +63,9 @@ p {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+        overflow: hidden;
+    position: relative;
+    height: 480px;
 }
 #slide h1 {
 	color: white;
