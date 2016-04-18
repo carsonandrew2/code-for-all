@@ -39,6 +39,12 @@ ul {
     left: 0;
 }
  h1 {
-    font-size:1000px;
+    font-size:500%;
     font-family: sans-serif;
+    margin-bottom: 1px;
 }
+p { 
+   font-family: sans-serif;
+}
+	
+	
