@@ -66,11 +66,14 @@ p {
     white-space: nowrap;
     font-size: 14px;
     color: #FFF;
+    margin-left:50%;
 }
 #button {
 	background-color: gray;
 	    padding-top: 60px;
     padding-bottom: 60px;
-}
+    left:0;
+    right:0;
+    color:white;}
 	
 	
