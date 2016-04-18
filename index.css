@@ -57,6 +57,12 @@ p {
 	background-color: #333;
 	margin-left: 0%;
 	margin-right: 0%;
+	    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
 }
 #slide h1 {
 	color: white;
