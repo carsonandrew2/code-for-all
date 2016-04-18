@@ -50,5 +50,15 @@ p {
    font-size: 150%;
    text-align: center;
 }
+#slide {
+	left: 0;
+	color: white;
+	right:0;
+}
+button{
+	background-color: #0E174C;
+	font-family: monospace;
+	font-size: 50%;
+}
 	
 	
