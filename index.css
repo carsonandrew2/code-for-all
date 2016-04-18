@@ -67,6 +67,12 @@ p {
     font-size: 14px;
     color: #FFF;
     margin-left:40%;
+    transition-duration:1s;
+    -webkit-transition-duration:1s
+}
+#look :hover {
+	background-color: white;
+	color:#0E174C;
 }
 #button {
 	background-color: gray;
