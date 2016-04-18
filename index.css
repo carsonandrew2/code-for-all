@@ -57,7 +57,7 @@ p {
     border-radius: 4px;
     margin: 10px;
     border: none;
-    background-color: #e96656;
+    background-color:  #0E174C;
     box-shadow: none;
     text-shadow: none;
     font-weight: 400;
@@ -66,6 +66,11 @@ p {
     white-space: nowrap;
     font-size: 14px;
     color: #FFF;
+}
+#button {
+	background-color: gray;
+	    padding-top: 60px;
+    padding-bottom: 60px;
 }
 	
 	
