@@ -55,11 +55,21 @@ p {
 	color: white;
 	right:0;
 	background-color: #333;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+#slide h1 {
+	color: white;
+	font-size: 250%;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 button{
 	background-color: #0E174C;
 	font-family: monospace;
-	font-size: 50%;
+	font-size: 150%;
+	border: none;
+	text-align:center;
 }
 	
 	
