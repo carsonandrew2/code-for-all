@@ -94,6 +94,11 @@ h2 {
 	color: #0E174C;
 	text-align:center;
 }
+#title {
+	background-image:url("PC.png");
+	padding-top:30%;
+	padding-bottom:30%;
+}
 
 	
 	
