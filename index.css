@@ -101,25 +101,7 @@ h2 {
 	padding-top: 30%;
 	padding-bottom: 30%;
 	color: white;
+	margin-bottom:50%;
 }
-@media only screen and (max-width: 500px, min-width:0px) {
-	#image p {
-		margin-bottom: 600px;
-	}
-}
-@media only screen and (max-width: 250px,min-width:0px) {
-	#image p {
-		margin-bottom: 300px;
-	}
-}
-@media only screen and (min-width: 500px, max-width:750 px) {
-	#image p{
-		margin-bottom: 900px;
-	}
-}
-@media only screen and (max-width: 1000px, min-width: 750px) {
-	#image p {
-		margin-bottom: 1200px;
-	}
-}
+
 	
