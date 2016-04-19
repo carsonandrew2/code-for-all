@@ -86,6 +86,14 @@ p {
     margin-top:10%;
     border:0px;
 }
+h2 {
+	font-family:monospace;
+	font-size:300%;
+	padding-top:60px;
+	padding-bottom:60px;
+	color: #0E174C;
+	text-align:center;
+}
 
 	
 	
