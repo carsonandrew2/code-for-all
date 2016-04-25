@@ -108,14 +108,18 @@ h2 {
 	font-size: 2em;
 	text-align: left;
 	margin-left: 40%;
-	background-color: gray;
+	background-color: #B0B0B0;
 	border-color: #0E174C;
+	border: 10px;
 	border-radius: 12px;
 	padding-top: 10%;
 	padding-bottom: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
-#box {
+#Box {
 	background-color: light-gray;
 }
-}
+
 	
